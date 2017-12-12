@@ -1,0 +1,110 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml:17:1-43:12
+INJECTED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml:17:1-43:12
+INJECTED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml:17:1-43:12
+INJECTED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml:17:1-43:12
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/administrator/Downloads/gradle-3.3/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/6d1a4d0a99fa111342af92d1966eae3c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.0] /Users/administrator/Downloads/gradle-3.3/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/f09a85b0ca82dbf3207aeaab6e4e5445/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/administrator/Downloads/gradle-3.3/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/18725569ee11891afc7d222423be954d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/administrator/Downloads/gradle-3.3/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/0688b0e821d1eb9bed86de07796afbdd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/administrator/Downloads/gradle-3.3/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/a6f202af4b98edec331c0a1444f7eac5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/administrator/Downloads/gradle-3.3/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/e63b914fb49955da2818f0a0743bbbd9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/administrator/Downloads/gradle-3.3/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/3f789b7e4c8cbea79ee6ec9db3a82d5a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.0] /Users/administrator/Downloads/gradle-3.3/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/438e62a8ade8dcd9a66e31f3c27a5dd2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/administrator/Downloads/gradle-3.3/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d231ccaca26d8fc2e9a2ed634d75ffb8/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml:17:1-43:12
+INJECTED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml:17:1-43:12
+INJECTED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml:17:1-43:12
+	package
+		ADDED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml:19:5-51
+		INJECTED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml
+		ADDED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml:17:1-43:12
+		INJECTED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml
+		ADDED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml:17:1-43:12
+		INJECTED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml:18:5-63
+application
+ADDED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml:21:5-41:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/administrator/Downloads/gradle-3.3/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d231ccaca26d8fc2e9a2ed634d75ffb8/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/administrator/Downloads/gradle-3.3/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d231ccaca26d8fc2e9a2ed634d75ffb8/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml:24:9-41
+	android:icon
+		ADDED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml:26:9-40
+activity#com.example.android.pictureinpicture.MainActivity
+ADDED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml:28:9-36:20
+	android:supportsPictureInPicture
+		ADDED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml:31:13-52
+	android:configChanges
+		ADDED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml:30:13-91
+	android:name
+		ADDED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml:29:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml:33:17-68
+	android:name
+		ADDED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml:34:27-74
+activity#com.example.android.pictureinpicture.MediaSessionPlaybackActivity
+ADDED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml:37:9-39:55
+	android:supportsPictureInPicture
+		ADDED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml:39:13-52
+	android:configChanges
+		ADDED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml:38:13-91
+	android:name
+		ADDED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml:37:19-63
+uses-sdk
+INJECTED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml
+INJECTED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/administrator/Downloads/gradle-3.3/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/6d1a4d0a99fa111342af92d1966eae3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/administrator/Downloads/gradle-3.3/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/6d1a4d0a99fa111342af92d1966eae3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] /Users/administrator/Downloads/gradle-3.3/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/f09a85b0ca82dbf3207aeaab6e4e5445/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] /Users/administrator/Downloads/gradle-3.3/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/f09a85b0ca82dbf3207aeaab6e4e5445/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/administrator/Downloads/gradle-3.3/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/18725569ee11891afc7d222423be954d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/administrator/Downloads/gradle-3.3/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/18725569ee11891afc7d222423be954d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/administrator/Downloads/gradle-3.3/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/0688b0e821d1eb9bed86de07796afbdd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/administrator/Downloads/gradle-3.3/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/0688b0e821d1eb9bed86de07796afbdd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/administrator/Downloads/gradle-3.3/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/a6f202af4b98edec331c0a1444f7eac5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/administrator/Downloads/gradle-3.3/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/a6f202af4b98edec331c0a1444f7eac5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/administrator/Downloads/gradle-3.3/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/e63b914fb49955da2818f0a0743bbbd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/administrator/Downloads/gradle-3.3/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/e63b914fb49955da2818f0a0743bbbd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/administrator/Downloads/gradle-3.3/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/3f789b7e4c8cbea79ee6ec9db3a82d5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/administrator/Downloads/gradle-3.3/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/3f789b7e4c8cbea79ee6ec9db3a82d5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /Users/administrator/Downloads/gradle-3.3/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/438e62a8ade8dcd9a66e31f3c27a5dd2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /Users/administrator/Downloads/gradle-3.3/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/438e62a8ade8dcd9a66e31f3c27a5dd2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/administrator/Downloads/gradle-3.3/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d231ccaca26d8fc2e9a2ed634d75ffb8/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/administrator/Downloads/gradle-3.3/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d231ccaca26d8fc2e9a2ed634d75ffb8/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml
+INJECTED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml
+		ADDED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml
+		ADDED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/administrator/AndroidStudioProjects/PictureInPicture/app/src/main/AndroidManifest.xml
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/administrator/Downloads/gradle-3.3/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d231ccaca26d8fc2e9a2ed634d75ffb8/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/administrator/Downloads/gradle-3.3/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d231ccaca26d8fc2e9a2ed634d75ffb8/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/administrator/Downloads/gradle-3.3/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d231ccaca26d8fc2e9a2ed634d75ffb8/AndroidManifest.xml:26:13-58
